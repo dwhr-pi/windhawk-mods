@@ -1,5 +1,5 @@
-[XDA Wind hawk](https://www.xda-developers.com/best-windhawk-mods-make-windows-11-pc-more-interesting/). 
-
+[XDA Windhawk](https://www.xda-developers.com/best-windhawk-mods-make-windows-11-pc-more-interesting/). 
+[Deskmodder Windhawk](https://www.deskmodder.de/blog/2024/07/28/windhawk-1-5-neue-finale-version-fuer-die-vielen-mods-fuer-windows-10-und-windows-11/)  
 
 # Windhawk Mods
 
